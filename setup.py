@@ -69,7 +69,7 @@ class TestCommand(Command):
 
 cmdclass = {'test': TestCommand}
 
-setup(name="grimoirelab-toolkit",
+setup(name="test-grimoirelab-toolkit",
       description="Toolkit of common functions used across GrimoireLab",
       long_description=long_description,
       url="https://github.com/grimoirelab/grimoirelab-toolkit",
